@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Nouh Islamic Centre of Canada - Scarborough Masjid",
+  title: "Nouh Islamic Centre of Canada - Masjid Nouh",
   description:
     "Nouh Islamic Centre of Canada - Opening soon in Scarborough, ON. Prayer facilities, educational programs, youth and community engagement, and social services. All are welcome!",
   keywords: [
@@ -28,6 +28,10 @@ export const metadata = {
     "Nouh",
     "Education",
     "Community",
+    "kingston masjid",
+    "Scarborough masjid",
+    "midland masjid",
+    "kingstion and midland masjid",
   ],
   authors: [{ name: "Nouh Islamic Centre of Canada" }],
   openGraph: {
