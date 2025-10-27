@@ -42,7 +42,7 @@ export default function Home() {
               marginBottom: 12,
             }}
           >
-            <Image src="/logo.png" alt="Masjid Logo" width={90} height={70} />
+            <Image src="/logo.jpg" alt="Masjid Logo" width={90} height={70} />
             <div>
               <div
                 style={{
